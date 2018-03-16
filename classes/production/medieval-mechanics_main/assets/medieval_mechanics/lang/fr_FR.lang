@@ -1,0 +1,13 @@
+# Blocs
+
+tile.medieval_mechanics:copper_ore.name=Minerai de Cuivre
+tile.medieval_mechanics:tin_ore.name=Minerai d'étain
+
+# Items
+
+item.medieval_mechanics:copper_ingot.name=lingot de cuivre
+item.medieval_mechanics:tin_ingot.name=lingot d'étain
+
+#Creative Tab
+
+itemGroup.medieval_mechanics:creative_tab=Medieval Mechanics
